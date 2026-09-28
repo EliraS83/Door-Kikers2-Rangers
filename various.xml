@@ -526,20 +526,20 @@ GRENADES
 			<EffectRange radiusMeters="4.0">
 				<StunEffect chancePercent="100" innerRangeTimeMSec="1500" outerRangeTimeMSec="1500"/>
 				<DamageEffect chancePercent="100" damage="100" damageType="2"  armorPenetration="0"/>
-				<ScatterEffect chancePercent="100" armorPenetration="30"/>
+				<ScatterEffect chancePercent="100" armorPenetration="60"/>
 				<SuppressEffect amount="20"/>
 				<SmokeEffect durationMSec="700" />
 			</EffectRange>
 			<EffectRange radiusMeters="6.0">
 				<StunEffect chancePercent="100" innerRangeTimeMSec="1500" outerRangeTimeMSec="1500"/>
 				<DamageEffect chancePercent="100" damage="100" damageType="2"/>
-				<ScatterEffect chancePercent="100" armorPenetration="30"/>
+				<ScatterEffect chancePercent="100" armorPenetration="60"/>
 				<SuppressEffect amount="20"/>
 			</EffectRange>
 			<EffectRange radiusMeters="8.0">
 				<StunEffect chancePercent="100" innerRangeTimeMSec="800" outerRangeTimeMSec="500"/>
 				<DamageEffect chancePercent="50" damage="20" damageType="2"/>
-				<ScatterEffect chancePercent="100" armorPenetration="0"/>
+				<ScatterEffect chancePercent="100" armorPenetration="60"/>
 				<SuppressEffect amount="20"/>
 			</EffectRange>
 		</Projectile>
