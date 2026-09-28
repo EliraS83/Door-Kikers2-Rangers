@@ -393,7 +393,7 @@ GRENADES
 				anim2D="">
 			</FX>
 
-			<EffectRange radiusMeters="2.5">
+			<EffectRange radiusMeters="6.5">
 				<SmokeEffect durationMSec="14300" />
 			</EffectRange>
 		</Projectile>
@@ -455,7 +455,7 @@ GRENADES
 				anim2D="">
 			</FX>
 
-			<EffectRange radiusMeters="2.5">
+			<EffectRange radiusMeters="6.5">
 				<SmokeEffect durationMSec="14300" />
 			</EffectRange>
 		</Projectile>
