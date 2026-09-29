@@ -1077,13 +1077,13 @@
 			efficiencyPercent="100"
 			deployTime="3000"
 
-			area1WidthMeters="2"
-			area1LengthMeters="2"
+			area1WidthMeters="3"
+			area1LengthMeters="3"
 			area1Damage="999"
 			area1StunTime="3000"
 
-			area2WidthMeters="3"
-			area2LengthMeters="5"
+			area2WidthMeters="4"
+			area2LengthMeters="6"
 			area2Damage="30"
 			area2StunTime="1800"
 
