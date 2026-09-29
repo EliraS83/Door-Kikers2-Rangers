@@ -1052,7 +1052,7 @@
 	</Firearm>
 
 	<ExplosiveCharge name="Demo Charge Ric" inventoryBinding="UtilityPouch"
-			quantity="1"
+			quantity="3"
 
 			tooltip="@nws_demo_charge_name"
 			description="@nws_demo_charge_desc"
